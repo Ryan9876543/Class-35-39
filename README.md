@@ -1,2 +1,2 @@
-# Speed-Racer-Game
-Multiplayer Racing Car Game
+# C39RV_SpeedRacer_StudentActivity
+Student Activity
